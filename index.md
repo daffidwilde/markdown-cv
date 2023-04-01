@@ -8,7 +8,8 @@ Experienced data scientist seeking ethical, impactful work
 
 <div id="webaddress">
 <a href="mailto:henrydavidwilde@gmail.com">henrydavidwilde@gmail.com</a>
-| <a href="https://github.com/daffidwilde">@daffidwilde</a>
+| <a href="https://github.com/daffidwilde">github.com/daffidwilde</a>
+| references available upon request
 </div>
 
 
@@ -51,16 +52,16 @@ __BSc Mathematics__, Cardiff University
 `2023`
 __Sustained Excellence Award__, *Office for National Statistics*
 
-Internal recognition for individually leading work to synthesise a census data
-product. In particular, I have had to work creatively to work according to best
-practices within the confines of the available trusted development environment.
+Internal recognition for leading a long-term project to synthesising a large,
+linked census data product. I have had to work creatively to follow sustainable
+development practices within the confines of the available trusted development environment.
 
 `2022`
-__Third Place Prize__,
+__3rd Place Prize__,
 *United Nations Privacy Enhancing Technologies Lab*
 
-Came third out of around two hundred international teams in a
-[hackathon](https://datasciencecampus.ons.gov.uk/campus-in-the-top-three-at-the-un-pet-lab-hackathon)
+Competed in a team of three, finishing third out of around two hundred
+international teams in a [hackathon](https://datasciencecampus.ons.gov.uk/campus-in-the-top-three-at-the-un-pet-lab-hackathon)
 centred around privacy-enhanced data analysis. We accurately predicted three
 hidden characteristics (average 77%) of Kenyan refugee households using
 open source tools for differential privacy inside a secure enclave.
@@ -75,7 +76,7 @@ Heuristics, and Predictive Analysis and Forecasting.
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+A list is also available [online](https://scholar.google.com/citations?user=ygr36cUAAAAJ).
 
 ### Thesis
 
@@ -89,26 +90,69 @@ initialisation with applications to healthcare*. Cardiff University.
 `2022`
 Wilde, H., et al. *Accounting for dilution of SARS-CoV-2 in wastewater samples
 using physico-chemical markers*. Water, 14(18):2885.
-<a href="https://doi.org/10.3390/w14182885">DOI:10.3390/w14182885</a>
+[DOI:10.3390/w14182885](https://doi.org/10.3390/w14182885)
 
+`2020`
+Wilde, H., Knight, V. and Gillard, J. *Evolutionary dataset optimisation:
+learning algorithm quality through evolution*. Applied Intelligence,
+50:1172-1191.
+[DOI:10.1007/s10489-019-01592-4](https://doi.org/10.1007/s10489-019-01592-4)
 
+Wilde, H., Knight, V. and Gillard, J. *Matching: a Python library for solving
+matching games*. Journal of Open Source Software, 5(48):2169.
+[DOI:10.21105/joss.02169](https://doi.org/10.21105/joss.02169)
 
 ### Pre-prints
 
+`2022`
+Houssiau, F., et al. *A framework for auditable synthetic data generation*.
+Under review at the Royal Statistical Society.
+[arXiv:2211.11540](https://arxiv.org/abs/2211.11540)
+
+`2020`
+Wilde, H., Knight, V. and Gillard, J. *A novel initialisation based on
+hospital-resident assignment for the k-modes algorithm*. Under review at Soft Computing.
+[arXiv:2002.02701](https://arxiv.org/abs/2002.02701)
+
+Wilde, H., et al. *Segmentation analysis and the recovery of queuing parameters
+via the Wasserstein distance: a study of administrative data for patients with
+chronic obstructive pulmonary disease*. Under review at the Journal of the
+Operational Research Society.
+[arXiv:2008.04295](https://arxiv.org/abs/2008.04295)
 
 
-## Occupation
+## Interests
+<br>
 
-`1600`
-__Royal Mint__, London
+### Cooking
 
-- Warden
-- Minted coins
+I taught myself to cook as a child, then I worked as a chef while studying for
+my A-levels, including at an AA Rosette restaurant. Cooking for friends and
+family is now one of my dearest pastimes.
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+### Cycling
 
+During the 2020 lockdowns I desperately needed something to occupy myself
+outside of writing up my thesis. So, I taught myself bike mechanics and
+renovated a vintage steel-frame touring bike.
 
+### D&D
+
+After years of listening to various Dungeons & Dragons podcasts, I now
+run an all-homebrew campaign (designed by me) for my three brothers and our
+partners.
+
+<!-- __Cooking.__ I taught myself to cook and worked as a chef while studying for my
+A-levels, including at an AA Rosette restaurant. Cooking for friends and family
+is now one of my dearest pastimes.
+
+__Cycling.__ During the 2020 COVID-19 lockdowns I desperately needed something
+to occupy myself outside of writing up my thesis. So, I taught myself bike
+mechanics and renovated a vintage steel-frame touring bike.
+
+__Dungeons & Dragons.__ After years of listening to various D&D podcasts, I now
+run an all-homebrew campaign (designed by me) for my three brothers and our
+partners. -->
 
 <!-- ### Footer
 
