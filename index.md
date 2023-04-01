@@ -1,74 +1,100 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Henry Wilde's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Henry Wilde
+<br>
+Experienced data scientist seeking ethical, impactful work
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:henrydavidwilde@gmail.com">henrydavidwilde@gmail.com</a>
+| <a href="https://github.com/daffidwilde">@daffidwilde</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Leveraging privacy-enhancing technologies to create synthetic census microdata
 
-### Specialized in
+### Specialisms
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Software development best practices, data synthesis, large-scale administrative
+data analysis, algorithm evaluation
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2017-2021`
+__PhD Applied Statistics, Operational Research and Data Analytics__,
+Cardiff University
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+My thesis offers a thorough utilisation of machine learning techniques to
+understand variation in healthcare data; this is achieved by assessing,
+creating and applying machine learning techniques in a novel manner. The
+results of this are new perspectives on algorithm evaluation and fair
+clustering, as well as attaining actionable insights into a healthcare
+population using routinely gathered, administrative datasets. In addition to
+these contributions, my thesis is accompanied by a collection of
+well-developed research software packages.
 
-- Sizar
+`2014-2017`
+__BSc Mathematics__, Cardiff University
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+- *Key areas of study:* computing for mathematics, methods for data mining,
+  operational research methods, game theory, algorithms and heuristics.
+- *Projects:* simulating a hospital emergency department; analytical
+  comparison of two strategies in an iterated Prisoner's Dilemma.
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2023`
+__Sustained Excellence Award__, *Office for National Statistics*
 
-Associate, *French Academy of Science*, Paris, France
+Internal recognition for individually leading work to synthesise a census data
+product. In particular, I have had to work creatively to work according to best
+practices within the confines of the available trusted development environment.
 
+`2022`
+__Third Place Prize__,
+*United Nations Privacy Enhancing Technologies Lab*
+
+Came third out of around two hundred international teams in a
+[hackathon](https://datasciencecampus.ons.gov.uk/campus-in-the-top-three-at-the-un-pet-lab-hackathon)
+centred around privacy-enhanced data analysis. We accurately predicted three
+hidden characteristics (average 77%) of Kenyan refugee households using
+open source tools for differential privacy inside a secure enclave.
+
+`2018`
+__Support for NATCOR Bursary__,
+*Association of European Operational Research Societies*
+
+Financial support to attend NATCOR courses in Approximation Algorithms and
+Heuristics, and Predictive Analysis and Forecasting.
 
 
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
+### Thesis
+
+`2021` Wilde, H. *New methods for algorithm evaluation and cluster
+initialisation with applications to healthcare*. Cardiff University.
+<a href="https://orca.cardiff.ac.uk/id/eprint/140492/">PDF</a>.
+<a href="https://github.com/daffidwilde/thesis">GitHub repository</a>.
+
 ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`2022`
+Wilde, H., et al. *Accounting for dilution of SARS-CoV-2 in wastewater samples
+using physico-chemical markers*. Water, 14(18):2885.
+<a href="https://doi.org/10.3390/w14182885">DOI:10.3390/w14182885</a>
 
-`1669`
-Lectiones opticæ.
 
-etc. etc. etc.
 
-### Patents
+### Pre-prints
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
 ## Occupation
