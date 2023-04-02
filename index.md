@@ -9,7 +9,8 @@ Experienced data scientist seeking ethical, impactful work
 <div id="webaddress">
 <a href="mailto:henrydavidwilde@gmail.com">henrydavidwilde@gmail.com</a>
 | <a href="https://github.com/daffidwilde">github.com/daffidwilde</a>
-| references available upon request
+<br>
+references available upon request
 </div>
 
 
@@ -31,7 +32,13 @@ algorithm evaluation
 present`
 __Data Scientist__&emsp; *Data Science Campus, Office for National Statistics*
 
-<br>
+I am the technical lead on a project synthesising England and Wales Census
+products within the Privacy-Enhancing Technologies (PETs) squad at the Campus.
+Working in an agile environment, I deliver large-scale synthetic datasets and
+synthesis methods, and I contribute to the development of open-source tools for
+privacy-preserving technologies. I am also an active participant in the
+cross-government and international PETs communities, where I help influence
+organisational policy on the uptake of PETs.
 
 `Feb 2021 -
 May 2022`
@@ -88,17 +95,18 @@ analytical, and enthusiastic.
 ## Education
 
 `2017-2021`
-__PhD Applied Statistics, OR and Data Analytics__&emsp;
+__PhD Applied Statistics, Operational Research and Data Analytics__&emsp;
 *School of Mathematics, Cardiff University*
 
-My thesis offers a thorough utilisation of machine learning techniques to
-understand variation in healthcare data; this is achieved by assessing,
-creating and applying machine learning techniques in a novel manner. The
-results of this are new perspectives on algorithm evaluation and fair
-clustering, as well as attaining actionable insights into a healthcare
-population using routinely gathered, administrative datasets. In addition to
-these contributions, my thesis is accompanied by a collection of
-well-developed research software packages.
+My PhD was partially funded by a Welsh NHS Health Board, and my thesis focuses
+on the thorough, ethical utilisation of machine learning techniques in
+healthcare settings. The key results of my research include new perspectives on
+algorithm evaluation and fair clustering, as well as actionable insights into a
+healthcare population using routinely gathered, administrative data. In
+addition to these contributions, my thesis is accompanied by a collection of
+well-developed research software packages. I also took every opportunity to
+disseminate my research through talks, live coding workshops, and poster
+events.
 
 `2014-2017`
 __BSc Mathematics (First Class Honours)__&emsp;
