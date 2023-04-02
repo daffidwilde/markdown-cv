@@ -49,8 +49,6 @@ table {
 
 /* end of reset */
 
-
-
 body {
 	font: normal normal 400;
 	font-size: 11pt;
@@ -73,9 +71,8 @@ p {
 code {
 	font: normal normal;
 	font-size: 80%;
-	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
-	color: #aaa;
+	color: #ccc;
 	white-space: pre;
 	top: .2em;
 }
@@ -138,7 +135,7 @@ h1+p {
 h2 {
 	font-size: 1.1em;
 	color: #d72;
-	margin-top: 1em;
+	margin-top: .5em;
 	position: relative;
 	top: 1.2em;
 	text-align: right;
@@ -149,7 +146,7 @@ h2 {
 h3 {
 	font-size: 1em;
 	line-height: 1em; 
-	color: #aaa;
+	color: #ccc;
 	position: relative;
 	top: 1.2em;
 	text-align: right;
@@ -157,8 +154,8 @@ h3 {
 }
 
 a {
-	color: #aaa;
-	text-decoration:none
+	color: #ccc;
+	text-decoration:none;
 }
 
 a:hover {
@@ -169,7 +166,7 @@ a:hover {
 	margin-top: 1em;
 	position: relative;
 	left: 28%;
-	color: #aaa;
+	color: #ccc;
 	font-family: Menlo,monospace,sans-serif;
 	font-size: 80%;
 }
