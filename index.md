@@ -19,15 +19,77 @@ Leveraging privacy-enhancing technologies to create synthetic census microdata
 
 ### Specialisms
 
-Software development best practices, data synthesis, large-scale administrative
-data analysis, algorithm evaluation
+Software development best practices,
+data synthesis,
+large-scale administrative data analysis,
+algorithm evaluation
 
+
+## Employment
+
+`May 2022 -
+present`
+__Data Scientist__&emsp; *Data Science Campus, Office for National Statistics*
+
+<br>
+
+`Feb 2021 -
+May 2022`
+__Research Associate__&emsp; *Water Research Institute, Cardiff University*
+
+I acted as the main contributor to software infrastructure and mathematical
+modelling in the Welsh Government 
+[wastewater surveillance programme](https://wastewatersurveillance.com).
+The aim of the project was to improve public health monitoring via wastewater
+sampling during the COVID-19 pandemic. As well as establishing reproducible
+analytical pipelines in R, I developed statistical models to improve insights
+into the ongoing pandemic. These included models for correcting
+physico-chemical effects on SARS-CoV-2 measurements and a hierarchical model
+for predicting COVID-19 prevalence across Wales.
+
+<!-- My involvement in this project began as part of an
+[international wastewater monitoring collaboration](https://cardiff.ac.uk/news/view/2499536-international-knowledge-exchange-projects-to-monitor-levels-of-covid-19-in-wastewater-worldwide)
+with the University of Campinas, Brazil, funded by the Global Challenges
+Research Fund. -->
+
+`2019-2020`
+__Project allocation consultancy__&emsp;
+*School of Biosciences, Cardiff University*
+
+The largest school in Cardiff University commissioned me to implement a more
+efficient process for allocating dissertations to their final-year students.
+The programmatic framework I installed, which relies on a
+[Python library](https://matching.readthedocs.io) I developed during my PhD,
+reduced the School's workload from a week to a matter of seconds. Moreover, the
+allocation it provides is mathematically fair and student-optimal.
+
+__Dissertation supervisor__&emsp;
+*School of Mathematics, Cardiff University*
+
+I assisted in the supervision of a MMORS final-year project conducting an
+empirical study of Folk Theorems in repeated games. My primary role was to
+consult on the supporting research software. I also took on pastoral
+responsibilities and provided editorial assistance during the writing process.
+
+`2017-2021`
+__PhD studentship teaching__&emsp; *School of Mathematics, Cardiff University* 
+
+Throughout my PhD, I supported a number of modules and services as a tutor and
+assessment advisor.
+Notable roles include an introductory Python for Mathematics course, a
+university-wide maths support service, and assessing multiple two-day
+hackathons for Masters students.
+These roles provided me countless opportunities to
+reinforce teaching and learning in a variety of environments, including group,
+one-on-one, structured, and drop-in settings. This range allowed me to
+demonstrate my nature as a mathematician and educator, one who is proactive,
+analytical, and enthusiastic.
 
 ## Education
 
 `2017-2021`
-__PhD Applied Statistics, Operational Research and Data Analytics__,
-Cardiff University
+__PhD Applied Statistics, OR and Data Analytics__&emsp;
+*School of Mathematics, Cardiff University*
 
 My thesis offers a thorough utilisation of machine learning techniques to
 understand variation in healthcare data; this is achieved by assessing,
@@ -39,35 +101,40 @@ these contributions, my thesis is accompanied by a collection of
 well-developed research software packages.
 
 `2014-2017`
-__BSc Mathematics__, Cardiff University
+__BSc Mathematics (First Class Honours)__&emsp;
+*School of Mathematics, Cardiff University*
 
-- *Key areas of study:* computing for mathematics, methods for data mining,
-  operational research methods, game theory, algorithms and heuristics.
-- *Projects:* simulating a hospital emergency department; analytical
-  comparison of two strategies in an iterated Prisoner's Dilemma.
+I maintained a breadth of topics throughout my undergraduate degree, with
+modules spanning operational research, discrete mathematics, computing, and
+pure mathematics. During my studies, I also received perfect scores for two
+projects. In one I simulated and analysed a hospital emergency department, and
+the other comprised a comparison of two game-theoretic strategies in an
+iterated Prisoner's Dilemma.
 
 
 ## Awards
 
 `2023`
-__Sustained Excellence Award__, *Office for National Statistics*
+__Sustained Excellence Award__&emsp; *Office for National Statistics*
 
-Internal recognition for leading a long-term project to synthesising a large,
-linked census data product. I have had to work creatively to follow sustainable
-development practices within the confines of the available trusted development environment.
+Internal recognition for leading the technical development of a long-term
+project synthesising a large, linked census data product.
+<!-- I have had to work creatively to follow sustainable development practices
+within the confines of the available trusted development environment. -->
 
 `2022`
-__3rd Place Prize__,
+__3rd Place Prize__&emsp;
 *United Nations Privacy Enhancing Technologies Lab*
 
 Competed in a team of three, finishing third out of around two hundred
 international teams in a [hackathon](https://datasciencecampus.ons.gov.uk/campus-in-the-top-three-at-the-un-pet-lab-hackathon)
-centred around privacy-enhanced data analysis. We accurately predicted three
-hidden characteristics (average 77%) of Kenyan refugee households using
-open source tools for differential privacy inside a secure enclave.
+centred around a real-world application of privacy-enhanced data analysis.
+<!-- We accurately predicted three hidden characteristics (average 77%) of Kenyan
+refugee households using open source tools for differential privacy inside a
+secure enclave. -->
 
 `2018`
-__Support for NATCOR Bursary__,
+__Support for NATCOR Bursary__&emsp;
 *Association of European Operational Research Societies*
 
 Financial support to attend NATCOR courses in Approximation Algorithms and
@@ -132,30 +199,11 @@ family is now one of my dearest pastimes.
 
 ### Cycling
 
-During the 2020 lockdowns I desperately needed something to occupy myself
-outside of writing up my thesis. So, I taught myself bike mechanics and
-renovated a vintage steel-frame touring bike.
+During the height of the COVID-19 pandemic, I desperately needed something to
+occupy myself outside of writing my thesis. So, I taught myself bike mechanics
+and renovated a vintage steel-frame touring bike.
 
-### D&D
+### D & D
 
-After years of listening to various Dungeons & Dragons podcasts, I now
-run an all-homebrew campaign (designed by me) for my three brothers and our
-partners.
-
-<!-- __Cooking.__ I taught myself to cook and worked as a chef while studying for my
-A-levels, including at an AA Rosette restaurant. Cooking for friends and family
-is now one of my dearest pastimes.
-
-__Cycling.__ During the 2020 COVID-19 lockdowns I desperately needed something
-to occupy myself outside of writing up my thesis. So, I taught myself bike
-mechanics and renovated a vintage steel-frame touring bike.
-
-__Dungeons & Dragons.__ After years of listening to various D&D podcasts, I now
-run an all-homebrew campaign (designed by me) for my three brothers and our
-partners. -->
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+After years of listening to various Dungeons & Dragons podcasts, I now serve as
+the game master in a homebrew campaign for my three brothers and our partners.
