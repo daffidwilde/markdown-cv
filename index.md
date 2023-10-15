@@ -121,31 +121,30 @@ game-theoretic strategies in an iterated Prisoner's Dilemma.
 ## Awards
 
 `2022-2023`
-__Recognition Awards__&emsp; *Office for National Statistics*
+__Reward and Recognition__&emsp; *Office for National Statistics*
 
 I have earnt several internal awards in recognition of my contributions to data
 science at the Office for National Statistics:
 
-- *Sustained Excellence Award* for my work leading a data synthesis project which
-  spanned over a year. The award notes my commitment to sustainable software
-  development practices in a restricted technical environment, and my essential
-  role in establishing synthetic data as a part of the ONS' privacy-enhancing
-  technologies strategy.
-- *Great Contribution Award* for encouraging and facilitating my team to adopt
-  GitHub Projects as an effective project management tool following a team
-  restructure. This tool has now been adopted in other teams at the Campus. I
-  was also rewarded for disseminating my expertise in software development
-  across other projects in the team, including setting up automated testing and 
-  continuous integration frameworks.
-- *Great Contribution Award* from another team for a piece of surge work I
+- __Sustained Excellence Award__ for my work leading a data synthesis project
+  which spanned over a year. The award notes my commitment to sustainable
+  software development practices in a restricted technical environment, and my
+  essential role in establishing synthetic data as a part of the ONS'
+  privacy-enhancing technologies strategy.
+- __Great Contribution Award__ for encouraging and facilitating my team to
+  adopt GitHub Projects as an effective project management tool following a
+  team restructure. This tool has now been adopted in other teams at the
+  Campus. I was also rewarded for disseminating my expertise in software
+  development across other projects in the team, including setting up automated
+  testing and continuous integration frameworks.
+- __Great Contribution Award__ from another team for a piece of surge work I
   delivered at short-notice. I made use of Google BigQuery and distributed data
   science software to interrogate several large datasets on a new development
   platform. My analysis has since been used in live demonstrations and training
   materials across government.
 
 `2022`
-__3rd Place Prize__&emsp;
-*United Nations Privacy Enhancing Technologies Lab*
+__3rd Place in PETs Hackathon__&emsp; *United Nations PET Lab*
 
 Competed in a team of three, finishing third out of around two hundred
 international teams in a [hackathon](https://datasciencecampus.ons.gov.uk/campus-in-the-top-three-at-the-un-pet-lab-hackathon)
