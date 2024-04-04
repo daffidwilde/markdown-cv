@@ -68,7 +68,7 @@ p {
 	left: 33%;
 	margin-bottom: .7em;
 	margin-right: 0;
-	width: 70%;
+	width: 46.5%;
 }
 
 code {
@@ -105,6 +105,8 @@ li {
 	/*second line indent*/
 	padding-left: 1.25em;
 	text-indent: -1.25em;
+	width: 70%;
+	max-width: 70%;
 	/*color: #777;*/
 }
 
