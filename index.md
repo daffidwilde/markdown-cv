@@ -42,6 +42,14 @@ privacy-preserving technologies. I am also an active participant in the
 cross-government and international PETs communities, where I help influence
 organisational policy on the uptake of PETs.
 
+<div id="skills">
+<strong>Python:</strong> NumPy, Pandas, Scikit-learn, SciPy, BeautifulSoup;
+<strong>Google Cloud Platform</strong>;
+<br>
+<strong>LLMs:</strong> Gemini, OpenAI, LangChain;
+<strong>Distributed computation:</strong> Dask, PySpark, Google BigQuery
+</div>
+
 `Feb 2021 -
 May 2022`
 __Research Associate__&emsp; *Water Research Institute, Cardiff University*
