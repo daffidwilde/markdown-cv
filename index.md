@@ -66,7 +66,7 @@ __Research Associate__&emsp; *Water Research Institute, Cardiff University*
 - Designed and implemented the software infrastructure for the Welsh Government
   [wastewater surveillance programme](https://wastewatersurveillance.com)
 - Taught myself the principles of R for data science in the first month to
-  establish reproducible analytical pipelines and powerful statistical models
+  establish reproducible ETL pipelines for biochemical data
 - Developed two core models for monitoring COVID-19 prevalence across Wales: a
   hierarchical GAM for predicting case rates and a Bayesian model to account
   for dilution in the wastewater system
