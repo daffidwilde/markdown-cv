@@ -50,42 +50,33 @@ __Data Scientist__&emsp; *Data Science Campus, Office for National Statistics*
 
 <p id="skills">
 <skill>Python</skill> (data science stack, BeautifulSoup)
-&emsp;
-<skill>Version control</skill> (Git, GitLab, GitHub)
-&emsp;
-<skill>Google Cloud Platform</skill>
-&emsp;
-<skill>Docker</skill>
-&emsp;
-<skill>Automated testing</skill> (pytest, hypothesis, GitHub Actions)
-&emsp;
-<skill>Publishing</skill> (Quarto, Streamlit, GitHub Pages, Markdown, LaTeX)
-&emsp;
-<skill>LLMs</skill> (Gemini, OpenAI, LangChain)
-&emsp;
-<skill>Distributed computation</skill> (Dask, PySpark, Google BigQuery)
+ | <skill>Version control</skill> (Git, GitLab, GitHub)
+ | <skill>Google Cloud Platform</skill>
+ | <skill>Docker</skill>
+ | <skill>Automated testing</skill> (pytest, hypothesis, GitHub Actions)
+ | <skill>Publishing</skill> (Quarto, Streamlit, GitHub Pages, Markdown, LaTeX)
+ | <skill>LLMs</skill> (Gemini, OpenAI, LangChain)
+ | <skill>Distributed computation</skill> (Dask, PySpark, Google BigQuery)
 </p>
 
 `Feb 2021 -
 May 2022`
 __Research Associate__&emsp; *Water Research Institute, Cardiff University*
 
-I acted as the main contributor to software infrastructure and mathematical
-modelling in the Welsh Government 
-[wastewater surveillance programme](https://wastewatersurveillance.com).
-The aim of the project was to improve public health monitoring via wastewater
-sampling during the COVID-19 pandemic. As well as establishing reproducible
-analytical pipelines in R, I developed statistical models to improve insights
-into the ongoing pandemic. These included models for correcting
-physico-chemical effects on SARS-CoV-2 measurements and a hierarchical model
-for predicting COVID-19 prevalence across Wales.
+- Designed and implemented the software infrastructure for the Welsh Government
+  [wastewater surveillance programme](https://wastewatersurveillance.com)
+- Taught myself the principles of R for data science in the first month to
+  establish reproducible analytical pipelines and powerful statistical models
+- Developed two core models for monitoring COVID-19 prevalence across Wales: a
+  hierarchical GAM for predicting case rates and a Bayesian model to account
+  for dilution in the wastewater system
+- My analysis and reporting had a direct impact on Welsh Government policy at
+  the height of the pandemic
 
 <p id="skills">
 <skill>R</skill> (tidyverse, mgcv, Shiny, RStan, RMarkdown)
-&emsp;
-<skill>Version control</skill> (Git, GitHub)
-&emsp;
-<skill>LIMS</skill>
+ | <skill>Version control</skill> (Git, GitHub)
+ | <skill>LIMS</skill>
 </p>
 
 `2019-2020`
@@ -102,12 +93,9 @@ mathematically fair and student-optimal.
 
 <p id="skills">
 <skill>Python</skill>
-&emsp;
-<skill>Version control</skill> (Git, GitHub)
-&emsp;
-<skill>Jupyter</skill>
-&emsp;
-<skill>Microsoft Excel</skill>
+ | <skill>Version control</skill> (Git, GitHub)
+ | <skill>Jupyter</skill>
+ | <skill>Microsoft Excel</skill>
 </p>
 
 __Dissertation supervisor__&emsp;
@@ -120,12 +108,9 @@ responsibilities and provided editorial assistance during the writing process.
 
 <p id="skills">
 <skill>Python</skill>
-&emsp;
-<skill>Version control</skill> (Git, GitHub)
-&emsp;
-<skill>SQL</skill>
-&emsp;
-<skill>LaTeX</skill>
+ | <skill>Version control</skill> (Git, GitHub)
+ | <skill>SQL</skill>
+ | <skill>LaTeX</skill>
 </p>
 
 `2017-2021`
@@ -142,10 +127,8 @@ educator, one who is proactive, analytical, and enthusiastic.
 
 <p id="skills">
 <skill>Python</skill> (data science stack, SymPy, Dask)
-&emsp;
-<skill>Version control</skill> (Git, GitHub)
-&emsp;
-<skill>Writing</skill> (LaTeX, Markdown, reStructuredText)
+ | <skill>Version control</skill> (Git, GitHub)
+ | <skill>Writing</skill> (LaTeX, Markdown, reStructuredText)
 </p>
 
 ## Education
