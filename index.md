@@ -233,16 +233,6 @@ measurements.*
 Houssiau, F., et al. *A framework for auditable synthetic data generation*.
 [arXiv:2211.11540](https://arxiv.org/abs/2211.11540)
 
-`2020`
-Wilde, H., Knight, V. and Gillard, J. *A novel initialisation based on
-hospital-resident assignment for the k-modes algorithm*.
-[arXiv:2002.02701](https://arxiv.org/abs/2002.02701)
-
-Wilde, H., et al. *Segmentation analysis and the recovery of queuing parameters
-via the Wasserstein distance: a study of administrative data for patients with
-chronic obstructive pulmonary disease*.
-[arXiv:2008.04295](https://arxiv.org/abs/2008.04295)
-
 
 ## Interests
 <br>
