@@ -36,28 +36,34 @@ software engineer in a new venture.
 present`
 __Data Scientist__&emsp; *Data Science Campus, Office for National Statistics*
 
-I am the technical lead on a project synthesising England and Wales Census
-products within the Privacy-Enhancing Technologies (PETs) squad at the Campus.
-Working in an agile environment, I deliver large-scale synthetic datasets and
-synthesis methods, and I contribute to the development of open-source tools for
-privacy-preserving technologies. I am also an active participant in the
-cross-government and international PETs communities, where I help influence
-organisational policy on the uptake of PETs.
+- Developing a LLM-based reader to summarise ONS activity in parliamentary
+  debates, leading to significant cash savings for the Office
+- Core developer of a privacy-preserving
+  [record linkage toolkit](https://github.com/datasciencecampus/pprl_toolkit),
+  including an accompanying secure computation architecture on GCP
+- Mentored a team of apprentices in creating a
+  [Python interface](https://github.com/datasciencecampus/census21api) to the
+  England and Wales 2021 Census API
+- Technical lead producing
+  [high-fidelity synthetic census microdata products](https://datasciencecampus.ons.gov.uk/synthesising-the-linked-2011-census-and-deaths-dataset-while-preserving-its-confidentiality/)
+  using a restricted environment, in GCP, and with public data
 
 <p id="skills">
-<strong>Python</strong> (data science stack, BeautifulSoup)
+<skill>Python</skill> (data science stack, BeautifulSoup)
 &emsp;
-<strong>Version control</strong> (Git, GitLab, GitHub)
+<skill>Version control</skill> (Git, GitLab, GitHub)
 &emsp;
-<strong>Google Cloud Platform</strong>
+<skill>Google Cloud Platform</skill>
 &emsp;
-<strong>Testing</strong> (pytest, hypothesis, unittest.mock)
+<skill>Docker</skill>
 &emsp;
-<strong>Publishing</strong> (Quarto, Streamlit, GitHub Pages, Markdown, LaTeX)
+<skill>Automated testing</skill> (pytest, hypothesis, GitHub Actions)
 &emsp;
-<strong>LLMs</strong> (Gemini, OpenAI, LangChain)
+<skill>Publishing</skill> (Quarto, Streamlit, GitHub Pages, Markdown, LaTeX)
 &emsp;
-<strong>Distributed computation</strong> (Dask, PySpark, Google BigQuery)
+<skill>LLMs</skill> (Gemini, OpenAI, LangChain)
+&emsp;
+<skill>Distributed computation</skill> (Dask, PySpark, Google BigQuery)
 </p>
 
 `Feb 2021 -
@@ -75,11 +81,11 @@ physico-chemical effects on SARS-CoV-2 measurements and a hierarchical model
 for predicting COVID-19 prevalence across Wales.
 
 <p id="skills">
-<strong>R</strong> (tidyverse, mgcv, Shiny, RStan, RMarkdown)
+<skill>R</skill> (tidyverse, mgcv, Shiny, RStan, RMarkdown)
 &emsp;
-<strong>Version control</strong> (Git, GitHub)
+<skill>Version control</skill> (Git, GitHub)
 &emsp;
-<strong>LIMS</strong>
+<skill>LIMS</skill>
 </p>
 
 `2019-2020`
@@ -95,13 +101,13 @@ matter of seconds on a single computer. Moreover, the allocation it provides is
 mathematically fair and student-optimal.
 
 <p id="skills">
-<strong>Python</strong>
+<skill>Python</skill>
 &emsp;
-<strong>Version control</strong> (Git, GitHub)
+<skill>Version control</skill> (Git, GitHub)
 &emsp;
-<strong>Jupyter</strong>
+<skill>Jupyter</skill>
 &emsp;
-<strong>Microsoft Excel</strong>
+<skill>Microsoft Excel</skill>
 </p>
 
 __Dissertation supervisor__&emsp;
@@ -113,13 +119,13 @@ consult on the supporting research software. I also took on pastoral
 responsibilities and provided editorial assistance during the writing process.
 
 <p id="skills">
-<strong>Python</strong>
+<skill>Python</skill>
 &emsp;
-<strong>Version control</strong> (Git, GitHub)
+<skill>Version control</skill> (Git, GitHub)
 &emsp;
-<strong>SQL</strong>
+<skill>SQL</skill>
 &emsp;
-<strong>LaTeX</strong>
+<skill>LaTeX</skill>
 </p>
 
 `2017-2021`
@@ -135,11 +141,11 @@ settings. This range allowed me to demonstrate my nature as a mathematician and
 educator, one who is proactive, analytical, and enthusiastic.
 
 <p id="skills">
-<strong>Python</strong> (data science stack, SymPy, Dask)
+<skill>Python</skill> (data science stack, SymPy, Dask)
 &emsp;
-<strong>Version control</strong> (Git, GitHub)
+<skill>Version control</skill> (Git, GitHub)
 &emsp;
-<strong>Writing</strong> (LaTeX, Markdown, reStructuredText)
+<skill>Writing</skill> (LaTeX, Markdown, reStructuredText)
 </p>
 
 ## Education
