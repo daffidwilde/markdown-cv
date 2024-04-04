@@ -1,29 +1,31 @@
 ---
 layout: cv
-title: Henry Wilde's CV
+title: Henry Wilde
 ---
-# Henry Wilde
-<br>
-Experienced data scientist seeking ethical, impactful work
 
 <div id="webaddress">
-<a href="mailto:henrydavidwilde@gmail.com">henrydavidwilde@gmail.com</a>
-| <a href="https://github.com/daffidwilde">github.com/daffidwilde</a>
+<i class="fa fa-solid fa-map-pin"></i> Cardiff, Wales
+&nbsp;
+<i class="fa fa-solid fa-envelope"></i> <a href="mailto:henrydavidwilde@gmail.com">henrydavidwilde@gmail.com</a>
 <br>
-references available upon request
+<i class="fa fa-brands fa-github"></i> <a href="https://github.com/daffidwilde">github.com/daffidwilde</a>
+&nbsp;
+<i class="fa fa-solid fa-clipboard"></i> References available upon request
 </div>
 
 
-## Currently
+## Summary
 
-Leveraging privacy-enhancing technologies to create synthetic census microdata
+I am an experienced data scientist and software engineer with a breadth of
+skills under my belt -- from large-scale, administrative data analysis to
+productionising secure enclaves for record linkage. Currently, I am leveraging
+LLMs to create business efficiencies in the ONS, and I champion the increased
+use of privacy-enhancing technologies (PETs) across the Civil Service and
+Government.
 
-### Specialisms
-
-Software development best practices,
-data synthesis,
-large-scale administrative data analysis,
-algorithm evaluation
+Having successfully led several projects in academia and government, I am now
+looking to apply my expertise as a thoughtful and technically proficient data
+scientist in a new venture.
 
 
 ## Employment
@@ -60,6 +62,7 @@ with the University of Campinas, Brazil, funded by the Global Challenges
 Research Fund. -->
 
 `2019-2020`
+
 __Project allocation consultancy__&emsp;
 *School of Biosciences, Cardiff University*
 
@@ -80,6 +83,7 @@ consult on the supporting research software. I also took on pastoral
 responsibilities and provided editorial assistance during the writing process.
 
 `2017-2021`
+
 __PhD studentship teaching__&emsp; *School of Mathematics, Cardiff University* 
 
 I supported a number of modules and services as a tutor and assessment advisor,
@@ -190,6 +194,12 @@ matching games*. Journal of Open Source Software, 5(48):2169.
 [DOI:10.21105/joss.02169](https://doi.org/10.21105/joss.02169)
 
 ### Pre-prints
+
+`2024`
+Jones, O., et al. *Estimating wastewater dilution using chemical markers and
+incomplete flow measurements: application to normalisation of SARS-CoV-2
+measurements.*
+[DOI:10.20944/preprints202402.1109.v1](https://doi.org/10.20944/preprints202402.1109.v1)
 
 `2022`
 Houssiau, F., et al. *A framework for auditable synthetic data generation*.
