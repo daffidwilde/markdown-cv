@@ -13,19 +13,21 @@ title: Henry Wilde
 <i class="fa fa-solid fa-clipboard"></i> References available upon request
 </div>
 
-
 ## Summary
 
-I am an experienced data scientist and software engineer with a breadth of
-skills under my belt -- from large-scale, administrative data analysis to
-productionising secure enclaves for record linkage. Currently, I am leveraging
-LLMs to create business efficiencies in the ONS, and I champion the increased
-use of privacy-enhancing technologies (PETs) across the Civil Service and
-Government.
+I am a thoughtful, pragmatic, and ethically minded scientist. I have a breadth
+of projects under my belt from large-scale health data analysis with machine
+learning to productionising secure enclaves for record linkage. I find great
+joy in picking up new tools and techniques, and in putting those skills to use
+at pace.
 
-Having successfully led several projects in academia and government, I am now
-looking to apply my expertise as a thoughtful and technically proficient data
-scientist in a new venture.
+Currently, I am leveraging LLMs to realise business efficiencies in the ONS,
+and I champion the increased use of privacy-enhancing technologies (PETs)
+across the Civil Service and Government.
+
+Having successfully led numerous high-impact projects in academia and
+government, I am now looking to apply my expertise as a data scientist and
+software engineer in a new venture.
 
 
 ## Employment
@@ -42,13 +44,21 @@ privacy-preserving technologies. I am also an active participant in the
 cross-government and international PETs communities, where I help influence
 organisational policy on the uptake of PETs.
 
-<div id="skills">
-<strong>Python:</strong> NumPy, Pandas, Scikit-learn, SciPy, BeautifulSoup;
-<strong>Google Cloud Platform</strong>;
-<br>
-<strong>LLMs:</strong> Gemini, OpenAI, LangChain;
-<strong>Distributed computation:</strong> Dask, PySpark, Google BigQuery
-</div>
+<p id="skills">
+<strong>Python</strong> (data science stack, BeautifulSoup)
+&emsp;
+<strong>Version control</strong> (Git, GitLab, GitHub)
+&emsp;
+<strong>Google Cloud Platform</strong>
+&emsp;
+<strong>Testing</strong> (pytest, hypothesis, unittest.mock)
+&emsp;
+<strong>Publishing</strong> (Quarto, Streamlit, GitHub Pages, Markdown, LaTeX)
+&emsp;
+<strong>LLMs</strong> (Gemini, OpenAI, LangChain)
+&emsp;
+<strong>Distributed computation</strong> (Dask, PySpark, Google BigQuery)
+</p>
 
 `Feb 2021 -
 May 2022`
@@ -64,13 +74,15 @@ into the ongoing pandemic. These included models for correcting
 physico-chemical effects on SARS-CoV-2 measurements and a hierarchical model
 for predicting COVID-19 prevalence across Wales.
 
-<!-- My involvement in this project began as part of an
-[international wastewater monitoring collaboration](https://cardiff.ac.uk/news/view/2499536-international-knowledge-exchange-projects-to-monitor-levels-of-covid-19-in-wastewater-worldwide)
-with the University of Campinas, Brazil, funded by the Global Challenges
-Research Fund. -->
+<p id="skills">
+<strong>R</strong> (tidyverse, mgcv, Shiny, RStan, RMarkdown)
+&emsp;
+<strong>Version control</strong> (Git, GitHub)
+&emsp;
+<strong>LIMS</strong>
+</p>
 
 `2019-2020`
-
 __Project allocation consultancy__&emsp;
 *School of Biosciences, Cardiff University*
 
@@ -82,6 +94,16 @@ PhD, reduced the School's workload from a week's work across the team to a
 matter of seconds on a single computer. Moreover, the allocation it provides is
 mathematically fair and student-optimal.
 
+<p id="skills">
+<strong>Python</strong>
+&emsp;
+<strong>Version control</strong> (Git, GitHub)
+&emsp;
+<strong>Jupyter</strong>
+&emsp;
+<strong>Microsoft Excel</strong>
+</p>
+
 __Dissertation supervisor__&emsp;
 *School of Mathematics, Cardiff University*
 
@@ -90,8 +112,17 @@ empirical study of Folk Theorems in repeated games. My primary role was to
 consult on the supporting research software. I also took on pastoral
 responsibilities and provided editorial assistance during the writing process.
 
-`2017-2021`
+<p id="skills">
+<strong>Python</strong>
+&emsp;
+<strong>Version control</strong> (Git, GitHub)
+&emsp;
+<strong>SQL</strong>
+&emsp;
+<strong>LaTeX</strong>
+</p>
 
+`2017-2021`
 __PhD studentship teaching__&emsp; *School of Mathematics, Cardiff University* 
 
 I supported a number of modules and services as a tutor and assessment advisor,
@@ -102,6 +133,14 @@ roles provided me countless opportunities to reinforce teaching and learning in
 a variety of environments, including group, one-on-one, structured, and drop-in
 settings. This range allowed me to demonstrate my nature as a mathematician and
 educator, one who is proactive, analytical, and enthusiastic.
+
+<p id="skills">
+<strong>Python</strong> (data science stack, SymPy, Dask)
+&emsp;
+<strong>Version control</strong> (Git, GitHub)
+&emsp;
+<strong>Writing</strong> (LaTeX, Markdown, reStructuredText)
+</p>
 
 ## Education
 
@@ -132,7 +171,7 @@ game-theoretic strategies in an iterated Prisoner's Dilemma.
 
 ## Awards
 
-`2022-2023`
+`2022-2024`
 __Reward and Recognition__&emsp; *Office for National Statistics*
 
 I have earnt several internal awards in recognition of my contributions to data
