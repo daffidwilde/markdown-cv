@@ -13,6 +13,7 @@ title: Henry Wilde
 <i class="fa fa-solid fa-clipboard"></i> References available upon request
 </div>
 
+
 ## Summary
 
 I am a thoughtful, pragmatic, and ethically minded scientist. I have a breadth
@@ -34,7 +35,7 @@ software engineer in a new venture.
 
 `May 2022 -
 present`
-__Data Scientist__&emsp; *Data Science Campus, Office for National Statistics*
+__Data scientist__&emsp; *Data Science Campus, Office for National Statistics*
 
 - Developing a LLM-based reader to summarise ONS activity in parliamentary
   debates, leading to significant cash savings for the Office
@@ -44,9 +45,9 @@ __Data Scientist__&emsp; *Data Science Campus, Office for National Statistics*
 - Mentored a team of apprentices in creating a
   [Python interface](https://github.com/datasciencecampus/census21api) to the
   England and Wales 2021 Census API
-- Technical lead producing
-  [high-fidelity synthetic census microdata products](https://datasciencecampus.ons.gov.uk/synthesising-the-linked-2011-census-and-deaths-dataset-while-preserving-its-confidentiality/)
-  using a restricted environment, in GCP, and with public data
+- Technical lead and project owner in creating
+  [high-fidelity synthetic census microdata](https://datasciencecampus.ons.gov.uk/synthesising-the-linked-2011-census-and-deaths-dataset-while-preserving-its-confidentiality/)
+  using distributed computing and differential privacy
 
 <p id="skills">
 <skill>Python</skill> (data science stack, BeautifulSoup)
@@ -61,7 +62,7 @@ __Data Scientist__&emsp; *Data Science Campus, Office for National Statistics*
 
 `Feb 2021 -
 May 2022`
-__Research Associate__&emsp; *Water Research Institute, Cardiff University*
+__Research associate__&emsp; *Water Research Institute, Cardiff University*
 
 - Designed and implemented the software infrastructure for the Welsh Government
   [wastewater surveillance programme](https://wastewatersurveillance.com)
@@ -80,16 +81,16 @@ __Research Associate__&emsp; *Water Research Institute, Cardiff University*
 </p>
 
 `2019-2020`
-__Project allocation consultancy__&emsp;
+__Volunteer consultant__&emsp;
 *School of Biosciences, Cardiff University*
 
-The largest school in Cardiff University commissioned me to implement a more
-efficient process for allocating dissertations to their final-year students.
-The programmatic framework I installed, which relies on a
-[Python library](https://daffidwilde.github.io/matching) I developed during my
-PhD, reduced the School's workload from a week's work across the team to a
-matter of seconds on a single computer. Moreover, the allocation it provides is
-mathematically fair and student-optimal.
+- Commissioned by the largest school in the University to improve their
+  dissertation allocation process
+- Implemented a hands-off, programmatic framework using a
+  [Python research library](https://daffidwilde.github.io/matching) I developed
+  during my PhD
+- Reduced the workload from a week across the team to a matter of seconds on
+  one computer, and guaranteed mathematical fairness
 
 <p id="skills">
 <skill>Python</skill>
@@ -101,10 +102,10 @@ mathematically fair and student-optimal.
 __Dissertation supervisor__&emsp;
 *School of Mathematics, Cardiff University*
 
-I assisted in the supervision of a MMORS final-year project conducting an
-empirical study of Folk Theorems in repeated games. My primary role was to
-consult on the supporting research software. I also took on pastoral
-responsibilities and provided editorial assistance during the writing process.
+- Co-supervisor for a MMORS final-year project on Folk Theorems in game theory
+- Mentored the student in how to produce a sustainable piece of research
+  software to accompany their dissertation
+- Assisted in editing the final report prior to submission
 
 <p id="skills">
 <skill>Python</skill>
@@ -116,19 +117,18 @@ responsibilities and provided editorial assistance during the writing process.
 `2017-2021`
 __PhD studentship teaching__&emsp; *School of Mathematics, Cardiff University* 
 
-I supported a number of modules and services as a tutor and assessment advisor,
-including an introductory Python for Mathematics course, the university maths
-support service, and multiple two-day hackathons for Masters students. I also
-founded an Advanced Python Workshop for my fellow PhD students. These
-roles provided me countless opportunities to reinforce teaching and learning in
-a variety of environments, including group, one-on-one, structured, and drop-in
-settings. This range allowed me to demonstrate my nature as a mathematician and
-educator, one who is proactive, analytical, and enthusiastic.
+- Heavily involved in teaching modules and services, including courses
+  on statistical inference and Python for mathematics, the university maths
+  support service, and hackathons for Masters students
+- Founded an Advanced Python Workshop for my fellow PhD students covering
+  topics like distributed computing, automated testing, and version control
+- Mentored a high school student during a Nuffield Research Placement
 
 <p id="skills">
 <skill>Python</skill> (data science stack, SymPy, Dask)
  | <skill>Version control</skill> (Git, GitHub)
- | <skill>Writing</skill> (LaTeX, Markdown, reStructuredText)
+ | <skill>Testing</skill> (pytest, hypothesis, Travis CI)
+ | <skill>Writing</skill> (LaTeX, Markdown, reStructuredText, Sphinx)
 </p>
 
 ## Education
