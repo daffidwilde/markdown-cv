@@ -137,25 +137,23 @@ __PhD studentship teaching__&emsp; *School of Mathematics, Cardiff University*
 __PhD Applied Statistics, Operational Research and Data Analytics__&emsp;
 *School of Mathematics, Cardiff University*
 
-My PhD was partially funded by a Welsh NHS Health Board, and my thesis focuses
-on the thorough, ethical utilisation of machine learning techniques in
-healthcare settings. The key results of my research include new perspectives on
-algorithm evaluation and fair clustering, as well as actionable insights into a
-healthcare population using routinely gathered, administrative data. In
-addition to these contributions, my thesis is accompanied by a collection of
-well-developed research software packages. I also took every opportunity to
-disseminate my research through talks, live coding workshops, and poster
-events.
+- [My thesis](https://github.com/daffidwilde/thesis) focuses on the thorough
+  and ethical utilisation of machine learning in healthcare settings
+- Key results include new perspectives on algorithm evaluation through data
+  synthesis, and fair clustering
+- My research provided actionable insights for my co-funders into a
+  critical healthcare population in their care using only administrative data
+- Accompanied by a suite of sustainably developed research software packages
 
 `2014-2017`
 __BSc Mathematics (First Class Honours)__&emsp;
 *School of Mathematics, Cardiff University*
 
-I maintained a breadth of interests throughout my degree, with modules spanning
-operational research, computing, and pure mathematics. During my studies, I
-received perfect scores for two projects. In one I simulated and analysed a
-hospital emergency department, and the other comprised a comparison of two
-game-theoretic strategies in an iterated Prisoner's Dilemma.
+- Maintained a breadth of interests, including operational research, computing,
+  and pure mathematics
+- Received perfect scores for two projects: a simulation and analysis of a
+  hospital emergency department, and an empirical comparison of two strategies
+  in an iterated Prisoner's Dilemma
 
 
 ## Awards
