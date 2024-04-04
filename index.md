@@ -16,11 +16,11 @@ title: Henry Wilde
 
 ## Summary
 
-I am a thoughtful, pragmatic, and ethically minded scientist. I have a breadth
-of projects under my belt from large-scale health data analysis with machine
-learning to productionising secure enclaves for record linkage. I find great
-joy in picking up new tools and techniques, and in putting those skills to use
-at pace.
+I am a thoughtful, ethically minded scientist with a track record of pragmatism
+and efficient, impactful work. I have a breadth of projects under my belt from
+large-scale health data analysis with machine learning to productionising
+secure enclaves for record linkage. I find great joy in picking up new tools
+and techniques, and in putting those skills to use at pace.
 
 Currently, I am leveraging LLMs to realise business efficiencies in the ONS,
 and I champion the increased use of privacy-enhancing technologies (PETs)
@@ -161,42 +161,36 @@ __BSc Mathematics (First Class Honours)__&emsp;
 `2022-2024`
 __Reward and Recognition__&emsp; *Office for National Statistics*
 
-I have earnt several internal awards in recognition of my contributions to data
-science at the Office for National Statistics:
-
-- __Sustained Excellence Award__ for my work leading a data synthesis project
-  which spanned over a year. The award notes my commitment to sustainable
-  software development practices in a restricted technical environment, and my
-  essential role in establishing synthetic data as a part of the ONS'
-  privacy-enhancing technologies strategy.
-- __Great Contribution Award__ for encouraging and facilitating my team to
-  adopt GitHub Projects as an effective project management tool following a
-  team restructure. This tool has now been adopted in other teams at the
-  Campus. I was also rewarded for disseminating my expertise in software
-  development across other projects in the team, including setting up automated
-  testing and continuous integration frameworks.
-- __Great Contribution Award__ from another team for a piece of surge work I
-  delivered at short-notice. I made use of Google BigQuery and distributed data
-  science software to interrogate several large datasets on a new development
-  platform. My analysis has since been used in live demonstrations and training
-  materials across government.
+- Received a total of eight awards across all three bands, rewarding me for
+  going above and beyond in my work
+- Two awards for giving particularly accessible and engaging technical talks to
+  colleagues in the Office
+- Three awards for my involvement in high-priority surge work between
+  governmental departments and with our international partners
+- A sustained excellence award for my work on synthetic data and its impact on
+  the ONS Data Strategy
+- Two awards for fostering a culture in my teams that values software
+  sustainability and effective project management practices 
 
 `2022`
-__3rd Place in PETs Hackathon__&emsp; *United Nations PET Lab*
+__PETs Hackathon__&emsp; *United Nations PET Lab*
 
-Competed in a team of three, finishing third out of around two hundred
-international teams in a [hackathon](https://datasciencecampus.ons.gov.uk/campus-in-the-top-three-at-the-un-pet-lab-hackathon)
-centred around a real-world application of privacy-enhanced data analysis.
-We accurately predicted three hidden characteristics of Kenyan refugee
-households using open source tools for differential privacy inside a secure
-enclave.
+- [Finished third](https://datasciencecampus.ons.gov.uk/campus-in-the-top-three-at-the-un-pet-lab-hackathon)
+  out of two hundred international teams
+- The hackathon was centred around a real-world application of privacy-enhanced
+  data analysis
+- Accurately predicted three hidden characteristics of Kenyan refugee
+  households using open-source tools for differential privacy inside a secure
+  enclave
 
 `2018`
 __Support for NATCOR Bursary__&emsp;
 *Association of European Operational Research Societies*
 
-Financial support to attend NATCOR courses in Approximation Algorithms and
-Heuristics, and Predictive Analysis and Forecasting.
+- Received financial support to attend postgraduate courses in operational
+  research
+- Courses covered approximation algorithms and heuristics, and predictive
+  analysis and forecasting
 
 
 ## Publications
@@ -267,5 +261,6 @@ and renovated a vintage steel-frame touring bike.
 
 ### D & D
 
-After years of listening to various Dungeons & Dragons podcasts, I now serve as
-the game master in a homebrew campaign for my three brothers and our partners.
+I adore fantasy in all its forms. Now, after years of listening to Dungeons &
+Dragons podcasts, I serve as the game master in a homebrew campaign for my
+three brothers.
