@@ -178,7 +178,7 @@ Former chef in fine dining and gastropub kitchens; cooking for friends and famil
 
 Restored a vintage steel-frame touring bike during the pandemic and taught myself bike mechanics.
 
-### Dungeons & Dragons
+### D & D
 
 Game master for a long-running homebrew campaign with my three brothers; lifelong lover of fantasy and speculative
 fiction.

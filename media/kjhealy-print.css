@@ -192,6 +192,7 @@ strong {
 skill {
 	color: #d72;
 	font-weight: bold;
+	font-size: 120%;
 }
 
 #skills {
@@ -199,7 +200,8 @@ skill {
 	position: relative;
 	left: 28%;
 	font-family: Menlo,monospace,sans-serif;
-	font-size: 80%;
+	font-size: 75%;
+	color: #777;
 }
 
 #skills a {
