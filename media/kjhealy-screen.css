@@ -172,7 +172,8 @@ a:hover {
 	position: relative;
 	left: 33%;
 	font-family: Menlo,monospace,sans-serif;
-	font-size: 80%;
+	font-size: 75%;
+	color: #aaa;
 }
 
 #skills a {
@@ -201,6 +202,7 @@ em {
 skill {
 	color: #d72;
 	font-weight: bold;
+	font-size: 120%;
 }
 
 strong {
